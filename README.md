@@ -8,6 +8,13 @@
 
 Amplify の `ログイン UI` を使用せずに、ログイン画面を作成する
 
+### 開発
+
+```bash
+# サーバー起動
+$ bun dev
+```
+
 ### Cognito の設定
 
 1. ユーザープールの作成
@@ -36,10 +43,10 @@ Amplify の `ログイン UI` を使用せずに、ログイン画面を作成�
 
 ```bash
 # Cognito ユーザー作成
-aws cognito-idp admin-create-user `
---profile xxxxxxxxxx `
---user-pool-id xxxxxxxxxx`
---username test `
+$ aws cognito-idp admin-create-user \
+--profile xxxxxxxxxx \
+--user-pool-id xxxxxxxxxx\
+--username test \
 --message-action SUPPRESS
 
 # {
@@ -60,11 +67,11 @@ aws cognito-idp admin-create-user `
 
 
 # Cognito ユーザーのステータスを「CONFIRMED」にする
-aws cognito-idp admin-set-user-password `
---profile xxxxxxxxxx `
---user-pool-id xxxxxxxxxx `
---username test `
---password 123456 `
+$ aws cognito-idp admin-set-user-password \
+--profile xxxxxxxxxx \
+--user-pool-id xxxxxxxxxx \
+--username test \
+--password 123456 \
 --permanent
 ```
 
