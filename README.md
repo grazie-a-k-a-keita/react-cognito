@@ -12,25 +12,25 @@ Amplify の `ログイン UI` を使用せずに、ログイン画面を作成�
 
 1. ユーザープールの作成
 
-![alt text](image.png)
+![image](https://github.com/grazie-a-k-a-keita/react-cognito/assets/106722155/ff3d6d2d-8b3e-4260-8827-b6ea357726b3)
 
-![alt text](image-1.png)
+![image](https://github.com/grazie-a-k-a-keita/react-cognito/assets/106722155/17e3ee80-9554-48e7-b9ba-fb050e62db7c)
 
-![alt text](image-2.png)
+![image](https://github.com/grazie-a-k-a-keita/react-cognito/assets/106722155/2ba69024-849a-430f-b316-d4cd18d763db)
 
-![alt text](image-3.png)
+![image](https://github.com/grazie-a-k-a-keita/react-cognito/assets/106722155/19491345-f518-4698-b5ca-85e3b2d1aa2a)
 
-![alt text](image-4.png)
+![image](https://github.com/grazie-a-k-a-keita/react-cognito/assets/106722155/572fa6be-7899-4f53-b1ad-85b98562d1ba)
 
-![alt text](image-5.png)
+![image](https://github.com/grazie-a-k-a-keita/react-cognito/assets/106722155/e6577258-4a3f-4e7d-9ed3-47135161c984)
 
-![alt text](image-6.png)
+![image](https://github.com/grazie-a-k-a-keita/react-cognito/assets/106722155/705bd74c-8e98-4cee-82d3-0313a5eb33af)
 
-![alt text](image-7.png)
+![image](https://github.com/grazie-a-k-a-keita/react-cognito/assets/106722155/5f241d09-34c1-4cd1-a153-39ec430582c4)
 
-![alt text](image-8.png)
+![image](https://github.com/grazie-a-k-a-keita/react-cognito/assets/106722155/8f0ab409-ff12-4cf4-9351-07f3cf752a8d)
 
-![alt text](image-9.png)
+![image](https://github.com/grazie-a-k-a-keita/react-cognito/assets/106722155/ae71c1fc-583a-444b-9a1f-e30d3831ca79)
 
 2. ユーザーを作成
 
