@@ -45,7 +45,7 @@ $ bun dev
 # Cognito ユーザー作成
 $ aws cognito-idp admin-create-user \
 --profile xxxxxxxxxx \
---user-pool-id xxxxxxxxxx\
+--user-pool-id xxxxxxxxxx \
 --username test \
 --message-action SUPPRESS
 
